@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
-  "build": 7,
+  "version": "0.4.1",
+  "build": 15,
   "minimumSystemVersion": "26.0",
-  "releaseURL": "https://github.com/Lincb522/GLEVIO/releases/tag/v0.3.0",
-  "downloadURL": "https://github.com/Lincb522/GLEVIO/releases/download/v0.3.0/GLEVIO.dmg",
-  "sha256": "623fcc96e909cde13331d019ab9da677a2ab7acc524c9e09cab08f0847452d66"
+  "releaseURL": "https://github.com/Lincb522/GLEVIO/releases/tag/v0.4.1",
+  "downloadURL": "https://github.com/Lincb522/GLEVIO/releases/download/v0.4.1/GLEVIO.dmg",
+  "sha256": "88cd57273179fc1397bd1fa4e99273609b1d30af4d44e9b8d78e9ba0d6f51563"
 }
